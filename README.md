@@ -22,6 +22,6 @@ No frontend é onde está implementado a interface do usuário, onde foi utiliza
   - 1: abrir a pasta do projeto;
   - 2: iniciar um novo terminal utilizando a ide de sua escolha;
   - 3: mudar o diretório do terminal para dentro da basta backend;
-  - 4: uma vez com o terminal dentro do diretório, rode o comando 'yarn install' ou 'npm install' (dependendo do gerenciador de pacotes que estiver utilizado);
-  - 5: execute o comando 'yarn dev' para executar a o arquivo server.js e iniciar a aplicação;
+  - 4: uma vez com o terminal dentro do diretório, rode o comando `yarn install` ou `npm install` (dependendo do gerenciador de pacotes que estiver utilizado);
+  - 5: execute o comando `yarn dev` para executar a o arquivo server.js e iniciar a aplicação;
   - 6: Com o servidor rodando, basta acessar a pasta frontend e abrir o arquivo index.html e testar a aplicação.
