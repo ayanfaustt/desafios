@@ -36,3 +36,4 @@ No frontend é onde está implementado a interface do usuário, onde foi utiliza
   - 6: Com o servidor rodando, basta acessar a pasta frontend e abrir o arquivo index.html e testar a aplicação.
     ![front](https://user-images.githubusercontent.com/77160753/186288429-bd0b2f24-7ece-4f84-b259-52eea890b312.png)
 
+OBS: É necessário ter o NODE instalado.
